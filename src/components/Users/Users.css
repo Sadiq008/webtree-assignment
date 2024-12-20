@@ -1,0 +1,9 @@
+.loading {
+  margin: 12rem auto 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 800;
+  color: white;
+}
